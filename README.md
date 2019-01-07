@@ -21,6 +21,7 @@
 * [**Bret Victor's "What can a technologist do about climate change?"**](http://worrydream.com/ClimateChange/)
   * [Improve costs or scalability of wind and solar](http://worrydream.com/ClimateChange/#production-stuff)
   * [Use computation to improve power generation](http://worrydream.com/ClimateChange/#production-computation), e.g. by using probabalistic modeling to better estimate wind capacity at a location
+  * [Improve the ability to distribute energy from the grid and to store it](http://worrydream.com/ClimateChange/#moving): all energy produced in power plants must be consumed somewhere. Relying on solar and wind means that we'll need ways to store energy when there's no sun or wind out. Grid-scale energy storage is critical and current batteries don't cut it.
 * [Buy carbon offsets and contribute to projects that reduce or remove greenhouse gas emissions](https://offset.climateneutralnow.org/) (United Nations Carbon offset program)
 * [Ten simple ways to act on climate change (BBC)](http://www.bbc.com/future/story/20181102-what-can-i-do-about-climate-change) (6 min read)
   * Fix systemic issue by being consumer advocates for systemic improvements and renewable energy (e.g. divesting funds out of polluting activities like fossil fuel stocks)
