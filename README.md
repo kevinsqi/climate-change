@@ -37,3 +37,8 @@
 * [Improve costs or scalability of wind and solar](http://worrydream.com/ClimateChange/#production-stuff)
 * [Use computation to improve power generation](http://worrydream.com/ClimateChange/#production-computation), e.g. by using probabalistic modeling to better estimate wind capacity at a location
 * [Improve the ability to distribute energy from the grid and to store it](http://worrydream.com/ClimateChange/#moving): all energy produced in power plants must be consumed somewhere. Relying on solar and wind means that we'll need ways to store energy when there's no sun or wind out. Grid-scale energy storage is critical and current batteries don't cut it.
+
+## Organizations to support
+
+* [Airminers](http://www.airminers.org/) - an index of companies and projects that are trying to remove carbon from the air
+* [Carbon180](https://carbon180.org) - an NGO that wants to drive carbon removal by finding economic uses for CO2.
