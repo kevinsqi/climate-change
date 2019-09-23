@@ -16,6 +16,7 @@
 
 ## How can we spur political change?
 
+* [Citizens' Climate Lobby](https://citizensclimatelobby.org/) - a nationwide group dedicated to lobbying for bipartisan climate change solutions.
 * [A reddit user's breakdown of why a carbon tax is important, and how to lobby for it](https://www.reddit.com/r/worldnews/comments/d7rx2e/climate_change_accelerating_say_scientists/f14zb4r/)
 
 ## How can individuals help prevent climate change?
