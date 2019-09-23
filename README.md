@@ -14,6 +14,10 @@
 * [**NY Times' summary of the United Nations IPCC report on the consequences of 1.5C and 2C increases in warming**](https://www.nytimes.com/interactive/2018/10/07/climate/ipcc-report-half-degree.html) (4 min read)
 * [Information is Beautiful infographic on impact at different global warming thresholds](https://informationisbeautiful.net/visualizations/how-many-gigatons-of-co2/)
 
+## How can we spur political change?
+
+* [A reddit user's breakdown of why a carbon tax is important, and how to lobby for it](https://www.reddit.com/r/worldnews/comments/d7rx2e/climate_change_accelerating_say_scientists/f14zb4r/)
+
 ## How can individuals help prevent climate change?
 
 * [Buy carbon offsets and contribute to projects that reduce or remove greenhouse gas emissions](https://offset.climateneutralnow.org/) (United Nations Carbon offset program)
