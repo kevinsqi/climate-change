@@ -80,13 +80,14 @@ Companies:
 * [Carbon Clean Solutions Limited](https://carboncleansolutions.com/technology/process-technology/profile/cdrmax-process) - captures CO2 from industrial flue gases
 
 
-### Decarbonizing production of raw materials
+### Cleaner production of raw materials
 
 [Here’s a question you should ask about every climate change plan](https://www.gatesnotes.com/Energy/A-question-to-ask-about-every-climate-plan) - Bill Gates talks about the problem of unavoidable greenhouse gas production through the production of materials like steel and concrete. Potential solutions include carbon capture, electrification, fuel switching, and recycling.
 
 Companies:
 
 * [Solidia](https://www.solidiatech.com/) - uses a curing process to produce concrete using CO2 instead of water. Concrete production accounts for 5-7% of CO2 emissions
+* [Boston Metal](https://www.bostonmetal.com/) - steel production without CO2 emissions.
 * [Charm Industrial](https://www.charmindustrial.com/about) - producing hydrogen from crops instead of steam methane reformation (responsible for 2% of CO2) emissions. Based in SF.
 
 ### Reusing CO2
@@ -99,6 +100,7 @@ Companies:
 
 Companies:
 
+* [Project Vesta](https://projectvesta.org/) - olivine weathering to reduce CO2 in the atmosphere
 * [Smart Stones](http://smartstones.nl/) - olivine weathering to reduce CO2 in the atmosphere
 
 
