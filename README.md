@@ -45,14 +45,17 @@
 
 Organizations
 
-* [Airminers](http://www.airminers.org/) - an index of companies and projects that are trying to remove carbon from the air
 * [Carbon180](https://carbon180.org) - an NGO that wants to drive carbon removal by finding economic uses for CO2.
 * [Impossible Labs](https://impossiblelabs.io) - a consultancy that explores business opportunities in climate change
 
 Indexes
 
+* [Airminers](http://www.airminers.org/) - an index of companies and projects that are trying to remove carbon from the air
 * [Geoengineering monitor](https://map.geoengineeringmonitor.org/) - a map of organizations worldwide working on greenhouse gas removal, solar radiation management, and weather modification. A nice way to discover common groups of focus areas such as carbon capture, direct air capture, ocean fertilization, and so on.
 
+Green energy companies
+
+* [TerraPower](https://terrapower.com) - a Bill Gates backed company building a safe nuclear reactor that uses depleted U-238 uranium (currently considered nuclear waste)
 
 Carbon removal startups
 
