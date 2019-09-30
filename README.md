@@ -47,6 +47,8 @@ A fascinating guide illustrating experimental approaches to carbon removal.
 * [Use computation to improve power generation](http://worrydream.com/ClimateChange/#production-computation), e.g. by using probabalistic modeling to better estimate wind capacity at a location
 * [Improve the ability to distribute energy from the grid and to store it](http://worrydream.com/ClimateChange/#moving): all energy produced in power plants must be consumed somewhere. Relying on solar and wind means that we'll need ways to store energy when there's no sun or wind out. Grid-scale energy storage is critical and current batteries don't cut it.
 
+[**Project Drawdown**](https://www.drawdown.org) - a research organization analyzing the most viable climate change solutions. They have a [book](https://www.drawdown.org/the-book) and a [ranked list of solutions](https://www.drawdown.org/solutions-summary-by-rank).
+
 ### Clean electricity
 
 [A critical step to reduce climate change](
@@ -129,5 +131,6 @@ Carbon sequestration | The process of capturing and long-term storage of atmosph
 Direct-air capture | Pulling carbon from the atmosphere after it's been dispersed, unlike carbon capture
 Feedstock | TODO
 Gasification | Process of converting organic or fossil fuels into carbon monoxide, hydrogen, and carbon dioxide. Reacts the material at >700C with oxygen and/or steam.
+kWh (kilowatt hour) | Unit of energy, 1000 watts of power over an hour. Example: running a 100w TV for 10 hours.
 Industrial flue gas | Gas that's emitted into the atmosphere from a pipe
 Syngas | TODO
