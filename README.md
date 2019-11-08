@@ -119,6 +119,14 @@ Lists of organizations:
 * [Airminers](http://www.airminers.org/) - an index of companies and projects that are trying to remove carbon from the air
 * [Geoengineering monitor](https://map.geoengineeringmonitor.org/) - a map of organizations worldwide working on greenhouse gas removal, solar radiation management, and weather modification. A nice way to discover common groups of focus areas such as carbon capture, direct air capture, ocean fertilization, and so on.
 
+Contests:
+
+* [Climate CoLab](https://www.climatecolab.org/contests) - an MIT project which creates contests to find the best proposals for combating climate change.
+
+## Forums
+
+* [Collective.Energy](https://collective.energy/) - a community of people discussing solutions to climate change.
+* [/r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - action-oriented news about methods for combating climate change.
 
 
 ## Carbon science and glossary
@@ -133,4 +141,6 @@ Feedstock | TODO
 Gasification | Process of converting organic or fossil fuels into carbon monoxide, hydrogen, and carbon dioxide. Reacts the material at >700C with oxygen and/or steam.
 kWh (kilowatt hour) | Unit of energy, 1000 watts of power over an hour. Example: running a 100w TV for 10 hours.
 Industrial flue gas | Gas that's emitted into the atmosphere from a pipe
+RCP | TODO
+SSP | TODO
 Syngas | TODO
