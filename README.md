@@ -116,6 +116,7 @@ Organizations:
 
 Lists of organizations:
 
+* [Climate.careers](https://climate.careers/) - a job board specifically for climate-oriented companies.
 * [Airminers](http://www.airminers.org/) - an index of companies and projects that are trying to remove carbon from the air
 * [Geoengineering monitor](https://map.geoengineeringmonitor.org/) - a map of organizations worldwide working on greenhouse gas removal, solar radiation management, and weather modification. A nice way to discover common groups of focus areas such as carbon capture, direct air capture, ocean fertilization, and so on.
 
